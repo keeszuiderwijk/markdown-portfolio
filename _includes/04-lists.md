@@ -1,0 +1,4 @@
+- Hobbies
+   - Training
+   - Running
+   - Learning languages
